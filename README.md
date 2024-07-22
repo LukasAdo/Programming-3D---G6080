@@ -1,0 +1,2 @@
+# Programming3D-G6080
+Welcome to the GitHub repository for "Programming for 3D"! The "Programming for 3D" module's projects, code samples, and other materials are all collected in one repository. Virtual 3D environments' essential components include: You will leave this program with a thorough understanding of the core elements that make up virtual 3D worlds. You will gain knowledge of concepts like 3D modeling, texturing, lighting, and physics, all of which are crucial for producing realistic virtual environments.
